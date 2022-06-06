@@ -57,7 +57,7 @@ Did you find this repo useful ? Give it a star so more people can find about thi
 ## CREDITS
 
 All the credits to;
-    1. [Kalebu](https://github.com/kalebu/)
-    2. [Anthony Mipawa](https://github.com/Tonyloyt)
-    3.[akshayb7](https://github.com/akshayb7)
+1. [Kalebu](https://github.com/kalebu/)
+2. [Anthony Mipawa](https://github.com/Tonyloyt)
+3. [akshayb7](https://github.com/akshayb7)
 </samp>
