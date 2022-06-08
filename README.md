@@ -6,7 +6,7 @@ Swahili NER dataset is Named Entity Recognition (NER) dataset generated from <ht
 
 In case you're interested to explore more about the script used to generate this dataset, please have a look into [Augumented Swahili Data](https://github.com/Neurotech-HQ/Augumented-swahili-ner-data).
 
-This data has been cleaned using couple of techniques and ready for training a Spacy NER model without any modifications, with this data we were able to train a [swahili-spacy-ner](<https://share.streamlit.io/neurotech-hq/swahili-ner-spacy/main/app.py>.
+This data has been cleaned using couple of techniques and ready for training a Spacy NER model without any modifications, with this data we were able to train a [swahili-spacy-ner](https://share.streamlit.io/neurotech-hq/swahili-ner-spacy/main/app.py).
 
 # EXPLORING DATA
 
